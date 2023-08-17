@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 🎮💻 Estudio tecnicatura en programación en la UTN. Emprendí este camino porque descubrí que me encanta enfrentar desafíos y dar vida a nuevas ideas a través de la programación. Además, el formar parte de este sector con conocimiento infinito, en constante cambio, al cual hay que adaptarse, siempre me fuerza a ir en busca de nuevos conocimientos, ir en busca del siguiente nivel, y eso me parece genial. 🌱🚀
 
 Soy un amante del anime y las películas con buenas historias. Me gustan los videojuegos🔥, así que cuando no estoy resolviendo enigmas desafiantes en el mundo de la programación, pueden encontrarme inmerso en los vastos mundos virtuales.👾
@@ -8,7 +8,7 @@ Soy un amante del anime y las películas con buenas historias. Me gustan los vid
 🤝🌟 Creo firmemente en la colaboración y en cambiar el mundo desde lo profundo del corazón. Si las causas pueden cambiar la vida de alguien para mejor, estoy 100% interesado en unirme y colaborar. Si necesitan una mano con programación o alguien para marcar la diferencia, cuenten conmigo. Y si hay helado de por medio, mejor 🍦✨
 
 
-## 🌐 Socials:
+## 🌐 Redes sociales:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_marcossenn/?hl=es-la) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marcossenn/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@codigoymate) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/_codigoymate) 
 
 # 💻 Tech Stack:
