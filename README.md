@@ -3,7 +3,7 @@
 
 Soy un amante del anime y las películas con buenas historias. Me gustan los videojuegos🔥, así que cuando no estoy resolviendo enigmas desafiantes en el mundo de la programación, pueden encontrarme inmerso en los vastos mundos virtuales.👾
 
-⚽️⛷️ Pero no todo es código y virtualidad. Lejos de la pantalla, me gusta el fútbol y soy un entusiasta seguidor de la F1. También me encanta viajar y conectar con la naturaleza. Tampoco puedo olvidar mencionar a mis compañeros peludos, los gatos ocupan un lugar especial en mi corazón, y si, el invierno es mi estación preferida☃️❄️ #TeamVerano
+⚽️⛷️ Pero no todo es código y virtualidad. Lejos de la pantalla, me gusta el fútbol y soy un entusiasta seguidor de la F1. También me encanta viajar y conectar con la naturaleza. Tampoco puedo olvidar mencionar a mis compañeros peludos, los gatos ocupan un lugar especial en mi corazón, y si, el invierno es mi estación preferida☃️❄️ !==TeamVerano
 
 🤝🌟 Creo firmemente en la colaboración y en cambiar el mundo desde lo profundo del corazón. Si las causas pueden cambiar la vida de alguien para mejor, estoy 100% interesado en unirme y colaborar. Si necesitan una mano con programación o alguien para marcar la diferencia, cuenten conmigo. Y si hay helado de por medio, mejor 🍦✨
 
