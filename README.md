@@ -1,7 +1,7 @@
 # 💫 Sobre mi:
 🎮💻 Estudio tecnicatura en programación en la UTN. Emprendí este camino porque descubrí que me encanta enfrentar desafíos y dar llevar a la realidad a nuevas ideas a través de la programación. Además, el formar parte de este sector, en constante cambio, al cual hay que adaptarse, siempre me fuerza a ir en busca de nuevos conocimientos, ir en busca del proximo nivel, y eso me parece genial. 🌱🚀
 
-Me encanta el anime y las películas con buenas historias o con historias malisimas pero con mucha acción. Tambien me gustan los videojuegos🔥, así que cuando no estoy resolviendo los enormes y desafiantes enigmas del mundo de la programación, pueden encontrarme inmerso en los vastos mundos virtuales.👾
+Me gustan los videojuegos🔥 asi que cuando no estoy resolviendo los desafiantes enigmas del mundo de la programación, pueden encontrarme inmerso en los vastos mundos virtuales.👾
 
 ⚽️⛷️ Pero no todo es código y virtualidad. Lejos de la pantalla, me gusta el fútbol y soy un entusiasta seguidor de la F1 #FerrariAndRedBull . También me encanta viajar y conectar con la naturaleza. Tampoco puedo olvidar mencionar a mis compañeros peludos, los gatos ocupan un lugar especial en mi corazón, y si, el invierno es mi estación preferida☃️❄️ !==TeamVerano
 
