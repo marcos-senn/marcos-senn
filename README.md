@@ -1,7 +1,13 @@
-Hey 👋🏽, Soy Marcos!
-<div align="center">
-<img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-</div>
+<p align="center">
+  <br>
+  <samp>
+    Hello there! Soy <b>Marcos</b>.
+
+</samp>
+
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+
+</p>
 
 🎮💻 Estudio tecnicatura en programación en la UTN. Emprendí este camino porque descubrí que me encanta enfrentar desafíos y dar llevar a la realidad a nuevas ideas a través de la programación. Además, el formar parte de este sector, en constante cambio, al cual hay que adaptarse, siempre me fuerza a ir en busca de nuevos conocimientos, ir en busca del proximo nivel, y eso me parece genial. 🌱🚀
 
