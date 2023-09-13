@@ -1,7 +1,8 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! Soy <b>Marcos</b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/marcossenn/">Marcos</a></b>.
+    <br>Soy un desarollador full stack estudiando progamación en UTN.<br>
 
 </samp>
 
@@ -9,7 +10,7 @@
 
 </p>
 
-🎮💻 Estudio tecnicatura en programación en la UTN. Emprendí este camino porque descubrí que me encanta enfrentar desafíos y dar llevar a la realidad a nuevas ideas a través de la programación. Además, el formar parte de este sector, en constante cambio, al cual hay que adaptarse, siempre me fuerza a ir en busca de nuevos conocimientos, ir en busca del proximo nivel, y eso me parece genial. 🌱🚀
+🎮💻Emprendí este camino porque descubrí que me encanta enfrentar desafíos y dar llevar a la realidad a nuevas ideas a través de la programación. Además, el formar parte de este sector, en constante cambio, al cual hay que adaptarse, siempre me fuerza a ir en busca de nuevos conocimientos, ir en busca del proximo nivel, y eso me parece genial. 🌱🚀
 
 Me gustan los videojuegos🔥 asi que cuando no estoy resolviendo los desafiantes enigmas del mundo de la programación, pueden encontrarme inmerso en los vastos mundos virtuales.👾
 
