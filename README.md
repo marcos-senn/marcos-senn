@@ -10,7 +10,7 @@
 
 </p>
 
-<div aling="center">
+<div aling="center" style="text-align: justify;" >
 🎮💻Emprendí este camino porque descubrí que me encanta enfrentar desafíos y dar llevar a la realidad a nuevas ideas a través de la programación. Además, el formar parte de este sector, en constante cambio, al cual hay que adaptarse, siempre me fuerza a ir en busca de nuevos conocimientos, ir en busca del próximo nivel, y eso me parece genial. 🌱🚀
 
 Me gustan los videojuegos🔥 asi que cuando no estoy resolviendo los desafiantes enigmas del mundo de la programación, pueden encontrarme inmerso en los vastos mundos virtuales.👾
