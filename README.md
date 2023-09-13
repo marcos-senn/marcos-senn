@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/marcossenn/">Marcos</a></b>.
+    Hello there! Soy <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/marcossenn/">Marcos</a></b>.
     <br>Soy un desarollador full stack estudiando progamación en UTN.<br>
 
 </samp>
