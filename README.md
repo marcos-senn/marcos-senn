@@ -33,9 +33,9 @@ Me gustan los videojuegos🔥 asi que cuando no estoy resolviendo los desafiante
 </div>
 
 <div align="center">
-<a href="https://github.com/marcos-senn">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-senn&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-senn&theme=buefy&layout=compact" />
-</a>
+
 
 </div>
