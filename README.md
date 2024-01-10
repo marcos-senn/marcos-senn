@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/marcossenn/">Marcos</a></b>.
-    <br>I'm a Full Stack Developer about to recive my Associate Degree in Software Developer from the UTN (National Technological University) in Argentina.<br>
+    <br>I'm a Full Stack Developer about to receive my Associate Degree in Software Developer from the UTN (National Technological University) in Argentina.<br>
 
 </samp>
 
