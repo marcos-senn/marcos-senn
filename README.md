@@ -15,6 +15,7 @@
 
 💻I chose this path becouse I discover that I love face challenges and bring new ideas to reality through code and becous this path force me to know lots of new things all days, to go in search of the next level and I think that's amazing. 🌱🚀
 
+
 🎮I love videogames🔥 so when I'm not solving challenging problems of the programming world, you can find me immersed in the vast virtual worlds.👾
 
 ⚽️⛷️ Far away from the screen I like soccer and I'm a enthusiastic follower of F1 #FerrariAndRedBull. Also, I love to travel and connect with nature.
