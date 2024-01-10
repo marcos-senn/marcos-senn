@@ -1,8 +1,8 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! Soy <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/marcossenn/">Marcos</a></b>.
-    <br>Soy un desarollador full stack estudiando progamación en UTN.<br>
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/marcossenn/">Marcos</a></b>.
+    <br>I'm a Full Stack Developer about to recive my Associate Degree in Software Developer from the UTN (National Technological University) in Argentina.<br>
 
 </samp>
 
@@ -11,22 +11,26 @@
 </p>
 
 <div aling="center" style="text-align: justify;" >
-🎮💻Emprendí este camino porque descubrí que me encanta enfrentar desafíos y dar llevar a la realidad a nuevas ideas a través de la programación. Además, el formar parte de este sector, en constante cambio, al cual hay que adaptarse, siempre me fuerza a ir en busca de nuevos conocimientos, ir en busca del próximo nivel, y eso me parece genial. 🌱🚀
+📚 My background in Full Stack develompment is complemented by previous experience in operations and quality services,where I was able to gain a lots of skills like leadership, decision making and problem solving.
 
-Me gustan los videojuegos🔥 asi que cuando no estoy resolviendo los desafiantes enigmas del mundo de la programación, pueden encontrarme inmerso en los vastos mundos virtuales.👾
+💻I chose this path becouse I discover that I love face challenges and bring new ideas to reality through code and becous this path force me to know lots of new things all days, to go in search of the next level and I think that's amazing. 🌱🚀
 
-⚽️⛷️ Pero no todo es código y virtualidad. Lejos de la pantalla, me gusta el fútbol y soy un entusiasta seguidor de la F1 #FerrariAndRedBull . También me encanta viajar y conectar con la naturaleza. Tampoco puedo olvidar mencionar a mis compañeros peludos, los gatos ocupan un lugar especial en mi corazón, y si, el invierno es mi estación preferida☃️❄️ !==TeamVerano
+🎮I love videogames🔥 so when I'm not solving challenging problems of the programming world, you can find me immersed in the vast virtual worlds.👾
 
-🤝🌟 Creo firmemente en la colaboración y en cambiar el mundo desde lo profundo del corazón. Si las causas pueden cambiar la vida de alguien para mejor, estoy 100% interesado en unirme y colaborar. Si necesitan una mano con programación o para subir de rango en valorant, cuenten conmigo. Si hay helado de por medio, mejor 🍦✨
+⚽️⛷️ Far away from the screen I like soccer and I'm a enthusiastic follower of F1 #FerrariAndRedBull. Also, I love to travel and connect with nature.
+
+🐱🐱🐈 Cats have a very special place in my heart and winnter is the best season of the year !==SummerTeam☃️❄️ 
+
+🤝🌟 I strongly believe in collaboration for changing the world. If the causes change someone's life for the better, I'm 100% interested in joining and collaboerating. If you need a hand with programming or to rank up in Valorant, count me in. If there's ice cream involved will be nice 😅🍦✨
 </div>
 
 
 
 <div align="center">
 
-## 🌐 Redes sociales:
+## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcossenn/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@codigoymate) 
-# 💻 Tech Stack:
+# 💻 Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
